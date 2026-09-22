@@ -51,8 +51,8 @@ bash <(curl -sSL [https://raw.githubusercontent.com/zillaymughalgamer-ops/-VORTE
 
 Clone Repository & Run
 
-```git clone [https://github.com/zillaymughalgamer-ops/-VORTEX-NODE-V1-.git](https://github.com/zillaymughalgamer-ops/-VORTEX-NODE-V1-.git) && cd -VORTEX-NODE-V1- && chmod +x install.sh && ./install.sh```
+```git clone [https://github.com/zillaymughalgamer-ops/-VORTEX-NODE-V1-.git](https://github.com/zillaymughalgamer-ops/-VORTEX-NODE-V1-.git) && cd -VORTEX-NODE-V1- && chmod +x install.sh && ./install.sh
 
 DIRECT DOWNLOAD AND RUN
-```wget -O install.sh [https://raw.githubusercontent.com/zillaymughalgamer-ops/-VORTEX-NODE-V1-/main/install.sh](https://raw.githubusercontent.com/zillaymughalgamer-ops/-VORTEX-NODE-V1-/main/install.sh) && chmod +x install.sh && ./install.sh```
+```wget -O install.sh [https://raw.githubusercontent.com/zillaymughalgamer-ops/-VORTEX-NODE-V1-/main/install.sh](https://raw.githubusercontent.com/zillaymughalgamer-ops/-VORTEX-NODE-V1-/main/install.sh) && chmod +x install.sh && ./install.sh
 

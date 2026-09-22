@@ -10,7 +10,7 @@ Created with ❤️ by **Sector_Plays**
 
 Run this single command on your VPS terminal as `root` user:
 
-bash
+```bash
 bash <(curl -sSL https://raw.githubusercontent.com/zillaymughalgamer-ops/-VORTEX-NODE-V1-/main/install.sh)
 
 

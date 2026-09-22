@@ -12,3 +12,21 @@ Run this single command on your VPS terminal as `root` user:
 
 ```bash
 bash <(curl -sSL [https://raw.githubusercontent.com/zillaymughalgamer-ops/-VORTEX-NODE-V1-/main/install.sh](https://raw.githubusercontent.com/zillaymughalgamer-ops/-VORTEX-NODE-V1-/main/install.sh))
+
+# 🛠 Main Menu Overview
+╔══════════════════════════════════════════════════╗
+║               VORTEX NODE INSTALLER              ║
+║               MADE BY SECTOR_PLAYS               ║
+╠══════════════════════════════════════════════════╣
+║  [1] Pterodactyl Panel Installer                 ║
+║  [2] Wings Installer                             ║
+║  [3] HVM Installer                               ║
+║  [4] Blueprint Extensions Installer              ║
+║  [5] Blueprint Themes Manager (30+ Themes)       ║
+║  [6] Blueprint 500 Error Fixer                   ║
+║  [7] Docker Installer                            ║
+║  [8] Cloudflare Tunnel                           ║
+║  [9] Node / Panel Repair                         ║
+║  [10] System Cleanup                             ║
+║  [0] Exit                                        ║
+╚══════════════════════════════════════════════════╝
